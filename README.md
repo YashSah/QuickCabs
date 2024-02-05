@@ -1,4 +1,4 @@
-# yumrush
+# QuickCabs
 
 A new Flutter project.
 
