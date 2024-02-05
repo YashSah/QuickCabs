@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "520847389364",
+    "project_id": "uberride-f01e0",
+    "storage_bucket": "uberride-f01e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520847389364:android:00019b6e3d03aa2096dde1",
+        "android_client_info": {
+          "package_name": "com.example.yumrush"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhnhfknSTJxhO688-Lyi4YbBT3oe3wcVM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
